@@ -1,4 +1,4 @@
-# Encontros
+# Pré-Catequese - Encontros
 
 Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 5 à 8 anos):
 
