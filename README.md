@@ -20,8 +20,3 @@ Este repositório tem como objetivo organizar todo material usado em encontros d
 |13 anos| Crisma - Fase 2|
 |14 à 15 anos| Crisma - Fase 3 + Recebimento da Crisma|
 * após esta idade, com todos os sacramentos da iniciação Cristã, a igreja sugere Cursos de Teologia para Leigos e Formação Bíblica
-
-
-<img src="https://github.com/user-attachments/assets/1e0d2fce-2790-4387-af4d-1f87684a1e3d" alt="CIC - Catecismo da Igreja Católica" style="width:200px;"/>
-
-- CIC - Catecismo da Igreja Católica
