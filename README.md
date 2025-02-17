@@ -2,12 +2,11 @@
 
 Este repositório tem como objetivo organizar todo material usado em encontros da pré-catequese ( segundo do Diretório para Catequese da Igreja Católica), de forma que possa ser reusado e também ajudar outros catequistas na preparação de encontros.
 
+## Diretório para a Catequese
+
 <img src="https://github.com/user-attachments/assets/cfc60204-fb99-4805-a662-b0719002fafb" alt="Diretório para a Catequese" style="width:200px;"/>
 
-- Diretório para a Catequese
-
-
-# Etapas da Iniciação Cristã
+## Etapas da Iniciação Cristã
 
 |Idade| Etapa|
 |---|---
@@ -20,3 +19,7 @@ Este repositório tem como objetivo organizar todo material usado em encontros d
 |13 anos| Crisma - Fase 2|
 |14 à 15 anos| Crisma - Fase 3 + Recebimento da Crisma|
 * após esta idade, com todos os sacramentos da iniciação Cristã, a igreja sugere Cursos de Teologia para Leigos e Formação Bíblica
+
+## Encontros
+
+- [Lista de Encontros](./encontros/readme.md)
