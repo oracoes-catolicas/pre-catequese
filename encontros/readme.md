@@ -13,7 +13,7 @@ Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 
 - [9- O pecado do racismo e do preconceito](./9.md)
 - [10- O Menino Jesus](./10.md)
 - [11- A Sagrada Família](./11.md)
-- 12- Maria, Mãe de Jesus
+- [12- Maria, Mãe de Jesus](./12.md)
 - 13- Jesus, nosso melhor amigo
 - 14- Jesus ama todas crianças
 - 15- A parábola do filho pródigo
