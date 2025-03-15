@@ -14,9 +14,9 @@ Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 
 - [10- O Menino Jesus](./10.md)
 - [11- A Sagrada Família](./11.md)
 - [12- Maria, Mãe de Jesus](./12.md)
-- 13- Jesus, nosso melhor amigo
-- 14- Jesus ama todas crianças
-- 15- A parábola do filho pródigo
+- [13- Jesus, nosso melhor amigo](./13-14.md)
+- [14- Jesus ama todas crianças](./13-14.md)
+- [15- A parábola do filho pródigo](./15.md)
 - 16- A parábola do bom samaritano
 - 17- A parábola da ovelha perdida
 - 18- Jesus obedece aos seus pais
