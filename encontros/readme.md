@@ -19,6 +19,7 @@ Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 
 - [15- A parábola do filho pródigo](./15.md)
 - [16- A parábola do bom samaritano](./16.md)
 - [17- A parábola da ovelha perdida](./17.md)
-- 18- Jesus obedece aos seus pais
-- 19- Os pastores adoram o Menino Jesus
-- 20- A Igreja
+- [18- A Mulher adúltera](./18.md)
+- 19- Jesus obedece aos seus pais
+- 20- Os pastores adoram o Menino Jesus
+- 21- A Igreja
