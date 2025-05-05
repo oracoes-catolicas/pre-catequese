@@ -20,7 +20,7 @@ Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 
 - [16- A parábola do bom samaritano](./16.md)
 - [17- A parábola da ovelha perdida](./17.md)
 - [18- A Mulher adúltera](./18.md)
-- 19- A Ressurreição de Jesus Cristo
+- [19- A Ressurreição de Jesus Cristo](./19.md)
 - 20- São José
 - 21- Apostólos de Jesus
 - 22- São Padre Pio
