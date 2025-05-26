@@ -22,6 +22,8 @@ Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 
 - [18- A Mulher adúltera](./18.md)
 - [19- A Ressurreição de Jesus Cristo](./19.md)
 - [20- São José](./20.md)
-- 21- Apostólos de Jesus
-- 22- São Padre Pio
-- 23- Pentescostes
+- [21- Apostólos de Jesus](./21.md)
+- [22- Apostólo Pedro - O primeiro Papa](./22.md)
+- 23- Apostólo Paulo
+- 24- Marcos e Lucas Evangelistas
+- 25- Pentescostes
