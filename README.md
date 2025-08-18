@@ -23,3 +23,37 @@ Este repositório tem como objetivo organizar todo material usado em encontros d
 ## Encontros
 
 - [Lista de Encontros](./encontros/readme.md)
+
+## 4. Avisos
+
+------ Agosto ------
+18/08 - Encontro normal
+25/08 - Encontro normal
+
+------ Setembro ------
+- Cerco de Jericó - de 1 a 7 de setembro - as 19h30 na Santa Filomena
+01/09 - Não haverá encontro - Cerco de Jericó
+08/09 - Encontro normal
+15/09 - Encontro normal
+22/09 - Encontro normal
+29/09 - Encontro normal
+
+-Horário: segunda feira das 19h30 às 21h
+-Local: Igreja São José Operário
+-Catequistas: Diego | Vanessa |  Lilian
+
+Missas na paróquia:
+* São José: Sábado às 19h30 e Domingo às 8h
+* Santa Filomena: Domingo às 10h
+* Nossa Sra. do Carmo: Domingo às 18h  
+
+O que a criança precisa levar nas reuniões? 
+* Bíblia (incialmente sera opcional pois a maioria das criancas ainda estao iniciando o processo de alfabetizacao)
+* lapis de cor/ canetinhas para desenhar
+* Um caderno ou pasta onde as crianças possam organizar suas artes/desenhos
+* Garrafa de água 
+
+O que esperamos dos pais/mães/responsáveis? 
+* apoiar a criança na participação das missas
+* conversar com a criança durante a semana sobre o que aprendeu, orações e sobre história dos santos.
+* sempre que necessário, compartilhe as dificuldades conosco 
