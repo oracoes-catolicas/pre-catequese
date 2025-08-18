@@ -25,6 +25,5 @@ Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 
 - [21- Apostólos de Jesus](./21.md)
 - [22- Apostólo Pedro - O primeiro Papa](./22.md)
 - [23- Ascensão de Jesus Cristo](./23.md)
-- 24- Pentescostes
-- 25- Apostólo Paulo
-- 26- Marcos e Lucas Evangelistas
+- [24- Pentescostes](./24.md)
+- [25- Assunção de Maria ao Céu](./25.md)
