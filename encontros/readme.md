@@ -5,7 +5,7 @@ Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 
 - [1- Deus é um Pai cheio de amor para nós](./1.md)
 - [2- A Obra da Criação](./2.md)
 - [3- A história de Adão e Eva](./3.md)
-- [4- A Milagre da Santa Missa](./4.md)
+- [4- O milagre da Santa Missa](./4.md)
 - [5- O Amor de Deus](./5.md)
 - [6- Obrigado Senhor, pelo meu corpo](./6.md)
 - [7- O pecado de não repartir](./7.md)
