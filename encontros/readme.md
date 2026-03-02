@@ -29,7 +29,7 @@ Temas sugeridos pelo diretório da Igreja Católica para Pré-Catequese (idade: 
 - [25- Assunção de Maria ao Céu](./25.md)
 - [26- A fé Cristã](./26.md)
 - [27- 1º Domingo da Quaresma - Jesus vence as tentações](./27.md)
-- 28- 2º Domingo da Quaresma - A transfiguração
+- [28- 2º Domingo da Quaresma - A transfiguração](./28.md)
 - 29- 3º Domingo da Quaresma - Jesus e a Samaritana
 - 30- 4º Domingo da Quaresma - Jesus cura o cego de nascença
 - 31- 5º Domingo da Quaresma - Jesus ressucita Lázaro
